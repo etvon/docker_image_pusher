@@ -1,1 +1,1 @@
---platform=linux/arm/v7 homeassistant/home-assistant:dev  
+--platform=linux/arm/v7 homeassistant/home-assistant:latest  
